@@ -34,7 +34,7 @@ class App extends Component {
   render() {
     const style = {
       cursor: "pointer",
-      fontSize: "20px"
+      fontSize: "20px "
     };
     return (
       <div className="App">
